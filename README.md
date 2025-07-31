@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Three.js**
 - 💬 Ask me about **Data Structures, Java, SQL**
-- 📫 Reach me at **adityasakhuja@example.com**
+- 📫 Reach me at **sakhujaaditya56@gmail.com**
 
 ---
 
@@ -19,13 +19,13 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/adityasakhuja" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="mailto:adityasakhuja@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:sakhujaaditya56@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Gmail_white.svg" alt="Gmail" width="40" height="40"/>
   </a>
   <a href="https://instagram.com/adityasakhuja_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
 
