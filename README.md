@@ -9,13 +9,15 @@
 
 ### 🔍 About Me
 
-- 🌱 I’m currently learning **Three.js**
-- 💬 Ask me about **Data Structures, Java, SQL**
+- 🌱 I’m currently learning **Backend**
+- 💬 Ask me about **Java, Data Structures, Javascript**
 - 📫 Reach me at **sakhujaaditya56@gmail.com**
 
 ---
 
 ### 🌐 Connect with Me
+
+<br>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aditya-sakhuja-508b33274" target="_blank">
@@ -25,8 +27,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
-
----
 
 ### 🛠️ Languages & Tools
 
