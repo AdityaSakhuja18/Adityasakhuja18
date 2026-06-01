@@ -29,12 +29,7 @@
 ## 📊 GitHub Stats Overview
 
 <p align="center">
-
-![Repos](https://img.shields.io/badge/Repositories-Active-blue?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Data%20Analytics-green?style=for-the-badge)
-![Learning](https://img.shields.io/badge/Learning-Power%20BI%20%7C%20SQL-orange?style=for-the-badge)
-![Tools](https://img.shields.io/badge/Tools-Python%20%7C%20SQL%20%7C%20Power%20BI-purple?style=for-the-badge)
-
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Data+Analyst;Business+Intelligence+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights" />
 </p>
 
 ---
