@@ -2,17 +2,16 @@
 <h3 align="center">A Data Analyst & Business Intelligence Enthusiast from India 📊</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityasakhuja18&label=Profile%20views&color=0e75b6&style=flat" alt="adityasakhuja18" />
+  <img src="https://komarev.com/ghpvc/?username=adityasakhuja18&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 📊 About Me
 
-- 📈 I’m currently focusing on **Data Analytics & Business Intelligence**
-- 🧠 Skilled in **Python, SQL, Excel, Power BI, and Data Visualization**
-- 📊 I enjoy turning raw data into **actionable business insights**
-- 💡 Interested in **Business Analysis, Reporting & Dashboards**
+- 📈 I’m focused on **Data Analytics & Business Intelligence**
+- 📊 I enjoy turning raw data into meaningful insights
+- 💡 Interested in **Business Analysis, Dashboards & Reporting**
 - 📫 Reach me at: **sakhujaaditya56@gmail.com**
 
 ---
@@ -38,7 +37,7 @@
 - NumPy  
 - Matplotlib  
 
-### 📄 Office & Spreadsheets
+### 📄 Office & Reporting
 - Advanced Excel  
 - Google Sheets  
 - MS Word  
@@ -47,35 +46,36 @@
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=adityasakhuja18&show_icons=true&theme=default&hide_border=true"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasakhuja18&layout=compact&hide_border=true"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasakhuja18&hide_border=true"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityasakhuja18&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasakhuja18&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasakhuja18&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
+
   <a href="https://linkedin.com/in/aditya-sakhuja-508b33274" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
   </a>
+
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://instagram.com/adityasakhuja_" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
   </a>
+
 </p>
 
 ---
 
-⭐ *“Turning data into decisions and insights into impact.”*
+⭐ *Turning data into decisions and insights into impact.*
