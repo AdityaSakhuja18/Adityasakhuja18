@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Sakhuja</h1>
-<h3 align="center">A Data Analyst & Business Intelligence Enthusiast from India 📊</h3>
+<h3 align="center">Data Analyst | Business Intelligence Enthusiast 📊 | India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adityasakhuja18&label=Profile%20views&color=0e75b6&style=flat" />
@@ -9,20 +9,29 @@
 
 ## 📊 About Me
 
-- 📈 Focused on Data Analytics & Business Intelligence  
-- 📊 Turning raw data into meaningful insights  
-- 💡 Interested in dashboards, reporting & business decision-making  
-- 📫 Reach me at: **sakhujaaditya56@gmail.com**
+- 📊 Data Analyst focused on turning data into insights  
+- 📈 Passionate about dashboards, reporting & business intelligence  
+- 💡 Skilled in extracting meaningful patterns from raw data  
+- 📫 Email: **sakhujaaditya56@gmail.com**
 
 ---
 
 ## 🛠️ Skills & Tools
 
-**Programming & Querying:** Python, SQL, Java  
-**BI & Analytics:** Power BI (DAX, Power Query, Data Modeling), Tableau  
-**Databases:** MySQL, SQL Server, Snowflake  
-**Libraries:** Pandas, NumPy, Matplotlib  
-**Office Tools:** Advanced Excel, Google Sheets, MS Word  
+### 💻 Programming & Querying
+Python | SQL | Java  
+
+### 📊 BI & Analytics
+Power BI (DAX, Power Query, Data Modeling) | Tableau  
+
+### 🗄️ Databases
+MySQL | SQL Server | Snowflake  
+
+### 📚 Data Libraries
+Pandas | NumPy | Matplotlib  
+
+### 📄 Office & Reporting
+Advanced Excel | Google Sheets | MS Word  
 
 ---
 
@@ -44,18 +53,12 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
-
-<a href="https://linkedin.com/in/aditya-sakhuja-508b33274">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://instagram.com/adityasakhuja_">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
-</a>
-
+<p align="center">
+  <a href="https://linkedin.com/in/aditya-sakhuja-508b33274">LinkedIn</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/adityasakhuja_">Instagram</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sakhujaaditya56@gmail.com">Email</a>
 </p>
 
 ---
