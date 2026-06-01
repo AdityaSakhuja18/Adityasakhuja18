@@ -30,10 +30,20 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Repositories-Active-blue?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Data%20Focus-Analytics-green?style=for-the-badge&logo=googleanalytics"/>
-<img src="https://img.shields.io/badge/Tools-Python%20%7C%20SQL%20%7C%20Power%20BI-orange?style=for-the-badge&logo=databricks"/>
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=adityasakhuja18&show_icons=true&theme=radical&hide_border=true" height="165"/>
 
+<!-- Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasakhuja18&layout=compact&theme=radical&hide_border=true" height="165"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasakhuja18&theme=radical&hide_border=true"/>
 </p>
 
 ---
