@@ -26,16 +26,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity (Text-Based)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityasakhuja18&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasakhuja18&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasakhuja18&theme=radical&hide_border=true"/>
-</p>
+- 🔹 Repositories: View on profile → https://github.com/adityasakhuja18  
+- 🔹 Contributions: Active in data analytics projects  
+- 🔹 Focus Areas: Python, SQL, Power BI, Data Visualization  
+- 🔹 Learning: Advanced Analytics & Business Intelligence  
 
 ---
 
