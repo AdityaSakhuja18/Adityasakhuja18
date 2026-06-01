@@ -34,25 +34,13 @@
 
 
 ## 🌐 Connect With Me
-
 <p align="left">
-  <a href="https://linkedin.com/in/aditya-sakhuja-508b33274">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35"/>
-  </a>
-
+  <a href="https://linkedin.com/in/aditya-sakhuja-508b33274"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35"/></a>
   &nbsp;
-
-  <a href="https://instagram.com/adityasakhuja_">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35"/>
-  </a>
-
+  <a href="https://instagram.com/adityasakhuja_"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35"/></a>
   &nbsp;
-
-  <a href="mailto:sakhujaaditya56@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="35"/>
-  </a>
+  <a href="mailto:sakhujaaditya56@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="35"/></a>
 </p>
-
 ---
 
 ⭐ Turning data into decisions and insights into impact.
