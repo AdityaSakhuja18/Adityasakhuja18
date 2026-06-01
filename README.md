@@ -18,18 +18,22 @@
 
 ## 🛠️ Skills & Tools
 
-💻 Programming & Querying - Python | SQL | Java  
-📊 BI & Analytics - Power BI (DAX, Power Query, Data Modeling) | Tableau  
-🗄️ Databases - MySQL | SQL Server | Snowflake  
-📚 Libraries - Pandas | NumPy | Matplotlib  
-📄 Office & Reporting - Advanced Excel | Google Sheets | MS Word  
+- 💻 Programming & Querying - Python | SQL | Java  
+- 📊 BI & Analytics - Power BI (DAX, Power Query, Data Modeling) | Tableau  
+- 🗄️ Databases - MySQL | SQL Server | Snowflake  
+- 📚 Libraries - Pandas | NumPy | Matplotlib  
+- 📄 Office & Reporting - Advanced Excel | Google Sheets | MS Word  
 
 ---
 
 ## 📊 GitHub Stats Overview
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Data+Analyst;Business+Intelligence+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights" />
+
+<img src="https://img.shields.io/badge/Repositories-Active-blue?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Data%20Focus-Analytics-green?style=for-the-badge&logo=googleanalytics"/>
+<img src="https://img.shields.io/badge/Tools-Python%20%7C%20SQL%20%7C%20Power%20BI-orange?style=for-the-badge&logo=databricks"/>
+
 </p>
 
 ---
