@@ -18,26 +18,23 @@
 
 ## 🛠️ Skills & Tools
 
-💻 Programming & Querying - Python | SQL | Java
-📊 BI & Analytics - Power BI (DAX, Power Query, Data Modeling) | Tableau
-🗄️ Databases - MySQL | SQL Server | Snowflake
-📚 Libraries - Pandas | NumPy | Matplotlib
-📄 Office & Reporting - Advanced Excel | Google Sheets | MS Word
+💻 Programming & Querying - Python | SQL | Java  
+📊 BI & Analytics - Power BI (DAX, Power Query, Data Modeling) | Tableau  
+🗄️ Databases - MySQL | SQL Server | Snowflake  
+📚 Libraries - Pandas | NumPy | Matplotlib  
+📄 Office & Reporting - Advanced Excel | Google Sheets | MS Word  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityasakhuja18&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityasakhuja18&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasakhuja18&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasakhuja18&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adityasakhuja18&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasakhuja18&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -45,23 +42,11 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://linkedin.com/in/aditya-sakhuja-508b33274">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://instagram.com/adityasakhuja_">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:sakhujaaditya56@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="35"/>
-</a>
-
+<a href="https://linkedin.com/in/aditya-sakhuja-508b33274"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35"/></a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/adityasakhuja_"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35"/></a>
+&nbsp;&nbsp;
+<a href="mailto:sakhujaaditya56@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="35"/></a>
 </p>
 
 ---
