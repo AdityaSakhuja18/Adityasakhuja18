@@ -29,13 +29,17 @@
 ## 📊 GitHub Stats Overview
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityasakhuja18&theme=radical"/>
+</p>
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=adityasakhuja18&show_icons=true&theme=radical&hide_border=true" height="165"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityasakhuja18&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityasakhuja18&theme=radical"/>
+</p>
 
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasakhuja18&layout=compact&theme=radical&hide_border=true" height="165"/>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityasakhuja18&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityasakhuja18&theme=radical&utcOffset=5.5"/>
 </p>
 
 ---
