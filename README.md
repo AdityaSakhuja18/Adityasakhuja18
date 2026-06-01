@@ -26,12 +26,16 @@
 
 ---
 
-## 📊 GitHub Activity (Text-Based)
+## 📊 GitHub Stats Overview
 
-- 🔹 Repositories: View on profile → https://github.com/adityasakhuja18  
-- 🔹 Contributions: Active in data analytics projects  
-- 🔹 Focus Areas: Python, SQL, Power BI, Data Visualization  
-- 🔹 Learning: Advanced Analytics & Business Intelligence  
+<p align="center">
+
+![Repos](https://img.shields.io/badge/Repositories-Active-blue?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Data%20Analytics-green?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Learning-Power%20BI%20%7C%20SQL-orange?style=for-the-badge)
+![Tools](https://img.shields.io/badge/Tools-Python%20%7C%20SQL%20%7C%20Power%20BI-purple?style=for-the-badge)
+
+</p>
 
 ---
 
