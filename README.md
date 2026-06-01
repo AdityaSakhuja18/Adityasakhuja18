@@ -24,12 +24,12 @@
 - 📚 Libraries - Pandas | NumPy | Matplotlib  
 - 📄 Office & Reporting - Advanced Excel | Google Sheets | MS Word  
 
----
+--- 
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityasakhuja18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityasakhuja18&theme=tokyonight" />
 </p>
 ---
 
