@@ -26,30 +26,11 @@
 
 ---
 
-## 📊 GitHub Stats Overview
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityasakhuja18&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adityasakhuja18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityasakhuja18&theme=radical"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityasakhuja18&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityasakhuja18&theme=radical"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityasakhuja18&theme=radical&utcOffset=5.5"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasakhuja18&theme=radical&hide_border=true"/>
-</p>
-
 ---
 
 ## 🌐 Connect With Me
